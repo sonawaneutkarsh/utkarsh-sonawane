@@ -25,19 +25,6 @@
 
 ---
 
-### 📈 stats
-<p align="center">
-  <img src="https://github-readme-stats-fgjql20mt-utkarshs-projects-64eb1373.vercel.app/api?username=sonawaneutkarsh&show_icons=true&theme=radical" />
-</p>
-
----
-
-### 🧠 top languages
-<p align="center">
-  <img src="https://github-readme-stats-fgjql20mt-utkarshs-projects-64eb1373.vercel.app/api/top-langs/?username=sonawaneutkarsh&layout=compact&theme=radical" />
-</p>
-
-
 ### 🔗 connect
 <p align="center">
   <a href="https://www.linkedin.com/in/utkarsh-sonawane-0aa993280/" target="_blank">
